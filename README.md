@@ -1,8 +1,17 @@
-# React + Vite
+# TCG Card Collection
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+View or share your card collection digitally, using the Pokemon TCG API to get and display card information
 
-Currently, two official plugins are available:
+## Access
+Access the [live demo](https://card-collection-public.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Screenshots
+<img src="https://i.ibb.co/TbrXc1y/cc3.jpg" width="450px" height="250px" />
+
+## Contributing
+Contributions are welcomed to help improve page.
+- Fork the repo
+- Create your feature branch
+- Commit your changes
+- Push to the branch
+- Open a pull request
